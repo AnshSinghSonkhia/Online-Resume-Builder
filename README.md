@@ -31,6 +31,25 @@ Crafting a professional and visually appealing resume is a crucial step in the j
 
 The objective of the Online Resume Builder is to empower individuals, including job seekers and professionals, with a tool that simplifies the resume creation process. By offering customization options and a downloadable PDF output, the platform aims to enhance users' chances of making a positive impression in the competitive job market.
 
+### Tech-Stack
+
+- Next.js
+- TailwindCSS
+- JavaScript / TypeScript
+- **React Hook Form** for handling form data efficiently
+- **React Context API** or **Redux** for state management, depending on project complexity
+- **PDF-lib** for generating downloadable PDFs
+- **Firebase Firestore** or **MongoDB** for data storage
+- **Node.js** with **Express.js** for a lightweight and fast backend (if required)
+- **Firebase Authentication** for user authentication
+- **Jest** for unit testing React components
+- **Cypress** for end-to-end testing
+- **GitHub Actions** for continuous integration/continuous deployment (CI/CD)
+- **Storybook** for component documentation and testing
+- **ESLint** and **Prettier** for code linting and formatting
+
+> Note: You can explore additional technologies based on project requirements and preferences.
+
 ## Mentors
 
 ### Ansh Singh Sonkhia
